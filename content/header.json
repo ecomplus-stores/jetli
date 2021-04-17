@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "A marca de Vape dos MC's!",
+    "link": "/promotion",
+    "color": "#f7f7f7"
   },
   "contacts_stripe": {
     "pages": [
